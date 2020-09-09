@@ -1,0 +1,6 @@
+framework module Pods_qasem_xib_example {
+  umbrella header "Pods-qasem_xib-example-umbrella.h"
+
+  export *
+  module * { export * }
+}
